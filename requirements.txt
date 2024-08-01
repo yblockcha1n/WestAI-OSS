@@ -1,0 +1,9 @@
+discord
+asyncio
+elevenlabs
+anthropic
+ffmpeg-python
+openai==0.28
+PyNaCl
+PyPDF2
+youtube_transcript_api
