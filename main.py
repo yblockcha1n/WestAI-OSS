@@ -24,7 +24,6 @@ with open('settings/config.json', 'r') as f:
 DISCORD_TOKEN = config['DISCORD_TOKEN']
 OPENAI_API_KEY = config['OPENAI_API_KEY']
 ELEVENLABS_API_KEY = config['ELEVENLABS_API_KEY']
-MODEL_ENGINE = config['MODEL_ENGINE']
 VOICE_ID = config['VOICE_ID']
 MAX_TTS_LENGTH = config['MAX_TTS_LENGTH']
 LISTENING_STATUS = config['LISTENING_STATUS']
